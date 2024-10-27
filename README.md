@@ -7,7 +7,7 @@
 <body>
 
 <h1 align="center">Hi 👋, I'm Madhuranga Lakshan</h1>
-<h3 align="center">A full stack frontend developer | MERN stack </h3>
+<h3 align="center">A full stack developer | MERN stack </h3>
 
 <div align="center"><img src="https://www.bing.com/th/id/OGC.f07686fd1bb92b29789645ff067aca4f?pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2fcd%2f59%2fd6%2fcd59d626dc86397fe45080e6e9c7027d.gif&ehk=P2B8Np2MHQKQzWZEhPN5IY9kdrXMLF3PE2SOSg7QEM4%3d"></div>
 
